@@ -1,5 +1,5 @@
 # zen-wedges
-Tenting bases for corne-ish-zen keyboard
+Tenting bases for corne-ish-zen keyboard with a space for an 18650 battery holder.
 
 F360 links:
 
